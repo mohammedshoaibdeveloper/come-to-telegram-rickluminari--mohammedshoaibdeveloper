@@ -77,8 +77,7 @@ I led the backend delivery of **NeuroICH™**, SaveLifeAI's first FDA 510(k)-cle
 
 - Developed and maintained Quantilytics' **virtual healthcare platform** — backend services, database modeling, API design, and integrations.
 - Delivered production features remotely across timezones while parallel-running the SaveLifeAI engagement.
-
-### 🐍 Python / Django Backend Developer — HnH Soft Tech Solutions (Pvt) Ltd.
+### 🐍 Senior Team Lead · Python / Django Backend — HnH Soft Tech Solutions (Pvt) Ltd.
 **November 2019 – March 2023** · On-site, Karachi, Pakistan
 
 - Delivered **20+ production products** for US, Middle East, and international clients across healthcare, fintech, CRM, e-commerce, and learning.
